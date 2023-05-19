@@ -1,0 +1,1 @@
+# myNpmLibrary
